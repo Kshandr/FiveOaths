@@ -1,0 +1,9 @@
+C:\Users\nick\source\repos\FiveOathsDowntime\FiveOathsLib\bin\Debug\FiveOathsLib.dll
+C:\Users\nick\source\repos\FiveOathsDowntime\FiveOathsLib\bin\Debug\FiveOathsLib.pdb
+C:\Users\nick\source\repos\FiveOathsDowntime\FiveOathsLib\bin\Debug\SubSonic.Core.dll
+C:\Users\nick\source\repos\FiveOathsDowntime\FiveOathsLib\obj\Debug\FiveOathsLib.csprojResolveAssemblyReference.cache
+C:\Users\nick\source\repos\FiveOathsDowntime\FiveOathsLib\obj\Debug\FiveOathsLib.csproj.CoreCompileInputs.cache
+C:\Users\nick\source\repos\FiveOathsDowntime\FiveOathsLib\obj\Debug\FiveOathsLib.csproj.CopyComplete
+C:\Users\nick\source\repos\FiveOathsDowntime\FiveOathsLib\obj\Debug\FiveOathsLib.dll
+C:\Users\nick\source\repos\FiveOathsDowntime\FiveOathsLib\obj\Debug\FiveOathsLib.pdb
+C:\Users\nick\source\repos\FiveOathsDowntime\FiveOathsLib\bin\Debug\FiveOathsLib.dll.config
